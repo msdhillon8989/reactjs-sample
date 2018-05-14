@@ -1,0 +1,28 @@
+{
+  "name": "demo-react-app",
+  "version": "1.0.0",
+  "description": "sample react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "keywords": [
+    "sample",
+    "reactjs",
+    "beginner"
+  ],
+  "author": "msdhillon8989",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "webpack": "^4.8.1",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.3"
+  }
+}

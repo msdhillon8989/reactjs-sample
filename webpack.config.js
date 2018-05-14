@@ -4,6 +4,7 @@ var config = {
       path:'/',
       filename: 'index.js',
    },
+   mode: 'development',
    devServer: {
       inline: true,
       port: process.env.PORT || 8080

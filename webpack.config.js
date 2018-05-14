@@ -6,7 +6,7 @@ var config = {
    },
    devServer: {
       inline: true,
-      port: process.env.PORT || 5000
+      port: 3000
    },
    module: {
       rules: [
